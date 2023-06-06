@@ -1,0 +1,4 @@
+name: JacobdgrahamSpigotMods
+version: '${project.version}'
+main: com.jacobdgraham.JacobdgrahamSpigotMods
+api-version: 1.19
