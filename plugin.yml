@@ -1,0 +1,10 @@
+name: JacobdgrahamSpigotMods
+main: com.jacobdgraham.JacobdgrahamSpigotMods
+version: 1.0
+author: Jacob Damian Graham
+description: A work-in-progress plugin which currently has a command that will repair an item a player is holding in their hand
+website: jacobdamiangraham.com
+permissions:
+  RepairItem:
+    description: This command allows you to repair the item in your main hand by using /repairitem
+    usage: /repairitem
